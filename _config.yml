@@ -24,7 +24,7 @@ authors:
       handler:         jpalanco
       site:           https://www.jpalanco.com
       avatar:         assets/images/jpalanco.jpg
-      bio:            "blah blah blah!"
+      bio:            "Jose Ramón Palanco founded Dinoflux at 2014, a Threat Intelligence startup acquired by Telefonica, currently he works for 11paths since 2018. He worked also for Ericsson at R&D department and Optenet (Allot). He studied Telecommunications Engineering at the University of Alcala de Henares and Master of IT Governance at the University of Deusto. He has been a speaker at OWASP, ROOTEDCON, ROOTCON, MALCON, and FAQin... He has published several CVE and different open source tools for cybersecurity like nmap-scada, ProtocolDetector, escan, pma, EKanalyzer, SCADA IDS, ..."
       email:          jpalanco@gmail.com
       twitter:        https://twitter.com/jpalanco
 
