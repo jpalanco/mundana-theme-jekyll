@@ -2,7 +2,7 @@
 name: 'jpalanco'
 description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/favicon.png'
 baseurl: ''
 disqus: 'jpalanco'
 email: 'jpalanco@gmail.com'
