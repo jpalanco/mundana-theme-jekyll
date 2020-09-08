@@ -1,6 +1,6 @@
 # Site
 name: 'jpalanco'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+description: 'Jose Ramon Palanco: Personal Blog'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
 baseurl: ''
@@ -21,12 +21,20 @@ plugins:
 authors:
     jpalanco:
       name:           Jose Ramon Palanco
-      handler:         jpalanco
+      handler:        jpalanco
       site:           https://www.jpalanco.com
       avatar:         assets/images/jpalanco.jpg
       bio:            "Jose Ramón Palanco founded Dinoflux at 2014, a Threat Intelligence startup acquired by Telefonica, currently he works for 11paths since 2018. He worked also for Ericsson at R&D department and Optenet (Allot). He studied Telecommunications Engineering at the University of Alcala de Henares and Master of IT Governance at the University of Deusto. He has been a speaker at OWASP, ROOTEDCON, ROOTCON, MALCON, and FAQin... He has published several CVE and different open source tools for cybersecurity like nmap-scada, ProtocolDetector, escan, pma, EKanalyzer, SCADA IDS, ..."
       email:          jpalanco@gmail.com
       twitter:        https://twitter.com/jpalanco
+    kbustamante:
+      name:           Karen Bustamante 
+      handler:        kbustamante 
+      site:           https://www.linkedin.com/in/akarenbustamantea/ 
+      avatar:         assets/images/kbustamante.jpg
+      bio:            "Karen is a Young professional with a Master’s in Environmental Sciences, Policy and Management (MESPOM) at CEU, The University of Aegean, the University of Manchester, and Lund University. Five years of working experience in the private sector and NGOs collaborating with research, data analysis and project/programme management."
+      email:          kbustamante10@gmail.com
+      twitter:        https://www.linkedin.com/in/akarenbustamantea/ 
 
  
 # Defaults
@@ -37,7 +45,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: jpalanco 
       avatar: assets/images/jpalanco.jpg
       
   # all pages

@@ -4,7 +4,7 @@ date: "2020-01-22"
 image: assets/images/drainware-1.png
 author: jpalanco
 layout: post
-tags: [ cloud, data loss prevention, dlp, drivers, endpoint, open source, windows, sticky]
+tags: [ cloud, data loss prevention, dlp, drivers, endpoint, open source, windows ]
 categories: [ Projects ]
 ---
 

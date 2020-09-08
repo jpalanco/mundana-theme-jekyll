@@ -5,7 +5,7 @@ image: assets/images/networking-100735059-large.jpg
 author: jpalanco
 layout: post
 tags: [ network, protocol, tools, yara ]
-categories: [ projects ]
+categories: [ Projects ]
 ---
 
 ProtocolDetector is am open source python library I developed for [Dinoflux](https://www.dinoflux.com). This library aims to provide an easy-to-use mechanism to integrate protocol detection capabilities into your python applications.
